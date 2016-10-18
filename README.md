@@ -15,3 +15,5 @@ npm run serve
 ```
 
 Then head over to `http://localhost:9090`.
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/aframe-react)
